@@ -1,0 +1,159 @@
+{
+  "personal": {
+    "name": "Julian Pratama",
+    "title": "Creative Full-Stack Developer",
+    "bio": "Creating elegant solutions to complex problems. Blending detailed, thoughtful design with strong engineering to build efficient and modern web experiences.",
+    "email": "julzzpedia@gmail.com",
+    "phone": "+62-857-9534-9441",
+    "location": "Cianjur, West Java, Indonesia",
+    "tagline": "Creative Developer, UI/UX Designer, Problem Solver",
+    "avatar": "/images/profile.jpg"
+  },
+  "socialMedia": {
+    "instagram": {
+      "username": "julzz_40",
+      "url": "https://instagram.com/julzz_40",
+      "icon": "Instagram"
+    },
+    "tiktok": {
+      "username": "julzzpiwz",
+      "url": "https://tiktok.com/@julzzpiwz",
+      "icon": "Music"
+    },
+    "telegram": {
+      "username": "julzzxd",
+      "url": "https://t.me/julzzxd",
+      "icon": "Send"
+    },
+    "whatsapp": {
+      "phone": "6285795349441",
+      "url": "https://wa.me/6285795349441",
+      "icon": "MessageCircle"
+    },
+    "github": {
+      "username": "JulianXDiaha51",
+      "url": "https://github.com/JulianXDiaha51",
+      "icon": "Github"
+    }
+  },
+  "techStack": [
+    {
+      "name": "React",
+      "category": "Frontend",
+      "level": "Expert",
+      "icon": "⚛️"
+    },
+    {
+      "name": "Next.js",
+      "category": "Frontend",
+      "level": "Expert",
+      "icon": "▲"
+    },
+    {
+      "name": "TypeScript",
+      "category": "Language",
+      "level": "Advanced",
+      "icon": "🔷"
+    },
+    {
+      "name": "Tailwind CSS",
+      "category": "Styling",
+      "level": "Expert",
+      "icon": "🎨"
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend",
+      "level": "Advanced",
+      "icon": "🟢"
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Database",
+      "level": "Advanced",
+      "icon": "🐘"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "JulzzPedia E-commerce",
+      "description": "“A modern digital e-commerce platform with automated QRIS payments and instant product delivery.",
+      "shortDescription": "Full-stack e-commerce with real-time updates.",
+      "image": "/images/projects/project.jpg",
+      "technologies": ["HTML", "Node.js", "CSS", "JavaScript", "MongoDB", "QRIS API"],
+      "demo": "https://example.com",
+      "github": "https://github.com/JulianXDiaha51",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Qris Dynamic Generator",
+      "description": "A modern web tool for generating dynamic QRIS payloads and QR codes.",
+      "shortDescription": "A lightweight web tool for generating dynamic QRIS payloads with a clean UI and smooth animations.",
+      "image": "/images/projects/project.jpg",
+      "technologies": ["HTML", "CSS", "JavaScript", "QRIS Payload Generator", "Canvas API"],
+      "demo": "https://example.com",
+      "github": "https://github.com/JulianXDiaha51",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Nokos Automation Bot",
+      "description": "Automated WhatsApp bot with virtual number generation and API integration.",
+      "shortDescription": "“Automated WhatsApp bot with VirtuSim API.",
+      "image": "/images/projects/project.jpg",
+      "technologies": ["Node.js", "AtlanticPedia API", "VirtuSim API", "JavaScript"],
+      "demo": "https://example.com",
+      "github": "https://github.com/JulianXDiaha51",
+      "featured": false
+    }
+  ],
+  "content": {
+    "en": {
+      "nav": {
+        "home": "Home",
+        "projects": "Projects",
+        "contact": "Contact",
+        "location": "Location",
+        "social": "Social"
+      },
+      "hero": {
+        "greeting": "Hello, I'm Julian",
+        "tagline": "Creative Full-Stack Developer",
+        "cta": "Let's Work Together"
+      },
+      "about": {
+        "title": "About Me",
+        "description": "I'm a 17-year-old full-stack developer from Cianjur, creating modern web experiences and automation tools."
+      },
+      "footer": "© 2025 JulianRzy. All rights reserved."
+    },
+    "id": {
+      "nav": {
+        "home": "Beranda",
+        "projects": "Proyek",
+        "contact": "Kontak",
+        "location": "Lokasi",
+        "social": "Sosial"
+      },
+      "hero": {
+        "greeting": "Halo, Saya Julian",
+        "tagline": "Creative Full-Stack Developer",
+        "cta": "Mari Berkolaborasi"
+      },
+      "about": {
+        "title": "Tentang Saya",
+        "description": "Saya seorang full-stack developer berusia 17 tahun dari Cianjur, yang membuat pengalaman web modern dan berbagai automation tools."
+      },
+      "footer": "© 2025 JulianRzy. Semua hak dilindungi."
+    }
+  },
+  "theme": {
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1e40af",
+    "accentColor": "#3b82f6",
+    "darkBg": "#0f1419",
+    "lightBg": "#ffffff"
+  }
+}
